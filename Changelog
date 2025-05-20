@@ -1,3 +1,9 @@
+# Version 1.2 (BETA)
+
+Re-wrote internals too work with bash
+Deprecated old batch binaries for bash 
+Misc cleanup
+
 # Version 1.1 (STABLE)
 
 Changed the colour scheme, moved around some settings, added TOC, added extra options for launching programs. 
